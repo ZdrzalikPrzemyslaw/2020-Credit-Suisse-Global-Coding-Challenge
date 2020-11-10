@@ -1,4 +1,4 @@
-# [2019 Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
+# [2020 Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
 
 
 ![Status](https://img.shields.io/badge/status-finished-%2300b4f0.svg)
