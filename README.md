@@ -15,40 +15,29 @@ This project contains the implementations of the functions for the nine question
 
 ## 📝 Table of Contents
 - [Results](#results)
-- [Problem Statement](#problem_statement)
+- [Question set](#question_set)
 - [Authors](#authors)
 
 ## 🏆 Results <a name = "results"></a>
 
-<div>
-    <img src="https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/blob/master/Results/Europe.png" alt="result_page" />
+Second place on the European Individual Leaderboard
+
+<div align="center">
+    <img src="https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/blob/master/Results/Europe.png" alt="result_page" >
 </div>
 
 
-## 🧐 Problem Statement <a name = "problem_statement"></a>
+## 🎓 Question set <a name = "question_set"></a>
 
-It is useful to design and follow a specific format when writing a problem statement. While there are several options
-for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
-focus on defining the problem.
-
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section
-  should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product.
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-  This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution.
-
-
-
-
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
+- [Question 1](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question1)
+- [Question 2](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question2)
+- [Question 3](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question3)
+- [Question 4](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question4)
+- [Question 5](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question5)
+- [Question 6](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question6)
+- [Question 7](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question7)
+- [Question 8](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question8)
+- [Question 9](https://github.com/ZdrzalikPrzemyslaw/2020-Credit-Suisse-Global-Coding-Challenge/tree/master/Question9)
 
 ## ✍️ Authors <a name = "authors"></a>
 
