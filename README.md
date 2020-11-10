@@ -1,7 +1,7 @@
 # [2019 Credit Suisse Global Coding Challenge](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/)
 
 
-[![Status](https://img.shields.io/badge/status-finished-%2300b4f0.svg)]()
+[![Status](https://img.shields.io/badge/status-finished-%2300b4f0.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
